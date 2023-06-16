@@ -1,0 +1,138 @@
+body{
+	background-color: black;
+}
+
+
+.principal{
+
+background-color: #1844F4;
+	height: auto;
+	width: 700px;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	left: 50%;
+	top: 60%;
+	margin-top: 200px;
+}
+
+.header{
+
+	background-color: blue;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.nombsare{
+
+	background-color: green;
+	width: 500px;
+	height: 200px;
+	float: left;
+	
+}
+.nombre{
+	padding: 86px 0px  30px;
+	text-indent: 30px;
+	letter-spacing: 3px;
+	color: white;
+
+   font-family: "Segoe UI";
+}
+.imagen{
+	border:30px 3px solid #fbb03b;
+}
+.aside{
+
+	background-color: #DBE6F9;
+	width: 200px;
+	height: 900px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 0px;
+	
+
+}
+.aside p{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.aside h1{
+	text-align: center;
+}
+.section{
+   
+	background-color: #10DAF1;
+	width: 460px;
+	height: 900px;
+	float: left;
+	
+}
+.section h1{
+	text-indent: 20px; 
+
+}
+.section h3{
+	text-indent: 20px; 
+
+}
+.section div{
+	column-count:1;
+   column-gap:40px;
+   /*column-rule:4px dotted gray;*/
+  
+
+}
+.footer{
+
+background-color:  gray;
+	width: 660px;
+	height: 50px;
+	float: left;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	color: yellow;
+	text-align: center;
+	
+}
+.primero{
+ background-color: #10DAF1;
+	width: 220px;
+	height: 400px;
+	float: left;
+	
+	
+}
+.segundo{
+
+	width: 220px;
+	height: 400px;
+	float: left;
+	
+	
+}
+.tercero{
+ background-color: #10DAF1;
+	width: 440px;
+	height: 200px;
+	float: left;
+	
+	
+}
+.quinto{
+ background-color: #10DAF1;
+	width: 220px;
+	height: 150px;
+	float: left;
+	
+	
+}
+.sexto{
+ background-color: #10DAF1;
+	width: 220px;
+	height: 150px;
+	float: left;
+	
+	
+}
